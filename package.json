@@ -1,0 +1,8 @@
+{
+  "name": "contract-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/kv": "^1.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
